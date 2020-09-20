@@ -18,7 +18,7 @@ providing virtualization support on Kubernetes, then venture into KubeVirt
 and the process of [painting it green](https://www.youtube.com/watch?v=b0tsZB_LEQk).
 
 
-![alt text](https://img.youtube.com/vi/b0tsZB_LEQk/hqdefault.jpg)(https://www.youtube.com/watch?v=b0tsZB_LEQk)
+[![alt text](https://img.youtube.com/vi/b0tsZB_LEQk/hqdefault.jpg)](https://www.youtube.com/watch?v=b0tsZB_LEQk)
 
 
 The journey continues by exploring the installation of KubeVirt on a Kubernetes cluster and concludes with an excursion into creating and interacting with virtual machines.
