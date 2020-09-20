@@ -1,8 +1,27 @@
-# Introduction
+# Introduction: VMs on Kubernetes!
 
-The rapid adoption of Kubernetes in the IT landscape has spurned the need to run traditional virtualized workloads on Kubernetes clusters, using the same tools for managing container-native workloads. There are a few projects projects providing this feature, with KubeVirt gaining the most traction.
+![alt text](Images/247px-Kubernetes_logo_without_workmark.svg.png)
 
-This paper will describe the journey of a few old-school virtualization hackers as they make their way into the world of containerization, Kubernetes, and running virtual machines in containers. The journey will start with a quick survey of open source projects providing virtualization support on Kubernetes, then venture into KubeVirt and the process of [painting it green](https://www.youtube.com/watch?v=b0tsZB_LEQk). The journey continues by exploring the installation of KubeVirt on a Kubernetes cluster and concludes with an excursion into creating and interacting with virtual machines.
+The rapid adoption of Kubernetes in the IT landscape has spurned the need
+to run traditional virtualized workloads on Kubernetes clusters,
+using the same tools for managing container-native workloads.
+
+There are a few projects projects providing this feature, with KubeVirt
+gaining the most traction.
+
+This paper will describe the journey of a few old-school virtualization
+hackers as they make their way into the world of containerization,
+Kubernetes, and running virtual machines in containers.
+
+The journey will start with a quick survey of open source projects
+providing virtualization support on Kubernetes, then venture into KubeVirt
+and the process of [painting it green](https://www.youtube.com/watch?v=b0tsZB_LEQk).
+
+
+![alt text](https://img.youtube.com/vi/b0tsZB_LEQk/hqdefault.jpg)
+
+
+The journey continues by exploring the installation of KubeVirt on a Kubernetes cluster and concludes with an excursion into creating and interacting with virtual machines.
 
 ![alt text](Images/JourneyMap.png)
 
