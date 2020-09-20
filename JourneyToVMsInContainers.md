@@ -1,6 +1,6 @@
 # Introduction: VMs on Kubernetes!
 
-![alt text](Images/247px-Kubernetes_logo_without_workmark.svg.png)
+<img align="right" src="Images/247px-Kubernetes_logo_without_workmark.svg.png">
 
 The rapid adoption of Kubernetes in the IT landscape has spurned the need
 to run traditional virtualized workloads on Kubernetes clusters,
