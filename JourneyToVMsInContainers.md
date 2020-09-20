@@ -433,7 +433,7 @@ was able to successfully deploy KubeVirt! It was time for the travelers to take
 the final few steps to reach their goal of running virtual machines on Kubernetes!
 
 
-# Summit: Running Virtual Machines on Green Kubernetes and Kubevirt!
+# Summit: Running Virtual Machines on Green Kubevirt!
 
 
 Two of the most interesting custom resources provided by KubeVirt are
